@@ -9,3 +9,11 @@ a.left {
 a.right {
   float: right; 
 }
+
+div.header {
+ padding: 10px 10px 10px 10px;
+  background: #C0B283;
+  color: #F4F4F4;
+  size: 20px;
+  font-family: Montserrat, sans-serif;
+}
