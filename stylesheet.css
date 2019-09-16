@@ -3,10 +3,6 @@ a {
   text-decoration: none;
 }
 
-a.left {
-  float: left;
-}
-
 a.right {
  float: right; 
 }
