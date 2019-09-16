@@ -16,3 +16,9 @@ div.header {
   background: #C0B283;
   font-family: Montserrat, sans-serif;
 }
+
+div.header2 {
+  padding: 30px 20px 15px 30px;
+  background: #DCD0C0;
+  font-family: Montserrat, sans-serif;
+}
