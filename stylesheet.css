@@ -2,6 +2,14 @@ a {
   text-decoration: none;
 }
 
+a:visited {
+  color: #F4F4F4;
+}
+
+a:hover {
+  color: #F4F4F4;
+}
+
 a.left {
   float: left; 
 }
