@@ -1,6 +1,7 @@
 a {
   color: #F4F4F4;
   text-decoration: none;
+  size: 50px;
 }
 
 a.right {
@@ -19,8 +20,4 @@ div.header {
   padding: 30px 30px 30px 30px;
   background: #C0B283;
   font-family: Montserrat, sans-serif;
-}
-
-div.header.a {
- size: 50px; 
 }
