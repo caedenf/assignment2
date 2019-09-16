@@ -1,7 +1,7 @@
 a {
   color: #F4F4F4;
   text-decoration: none;
-  display: inline;
+  display: inline-block;
 }
 
 a:visited {
