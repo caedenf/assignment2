@@ -3,6 +3,9 @@ a {
   text-decoration: none;
 }
 
+a.left {
+  float: left;
+}
 
 a.right {
  float: right; 
@@ -20,5 +23,4 @@ div.header {
   padding: 30px 30px 25px 30px;
   background: #C0B283;
   font-family: Montserrat, sans-serif;
-  display: inline;
 }
