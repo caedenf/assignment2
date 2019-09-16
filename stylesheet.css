@@ -32,3 +32,7 @@ p {
   font-family: Montserrat, sans-serif;
   color: #373737;
 }
+
+div.content {
+  padding: 35px 70px 35px 70px;
+}
