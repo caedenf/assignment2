@@ -34,7 +34,11 @@ p {
 }
 
 div.content {
-  padding: 35px 70px 35px 70px;
+  padding: 20px 20px 20px 20px;
+  margin-top: 70px;
+  margin-bottom: 35px;
+  margin-right: 70px;
+  margin-left: 35px;
   border: 1px solid;
   box-shadow: 5px 10px;
 }
