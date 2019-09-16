@@ -3,6 +3,10 @@ a {
   text-decoration: none;
 }
 
+a.right {
+ float: right; 
+}
+
 a:visited {
   color: #F4F4F4;
 }
