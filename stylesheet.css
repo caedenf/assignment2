@@ -18,6 +18,7 @@ div.header {
 }
 
 div.header2 {
+  display: inline;
   padding: 10px 10px 10px 10px;
   background: #DCD0C0;
   font-family: Montserrat, sans-serif;
