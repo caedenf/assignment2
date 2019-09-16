@@ -35,4 +35,6 @@ p {
 
 div.content {
   padding: 35px 70px 35px 70px;
+  border: 1px solid;
+  box-shadow: 5px 10px;
 }
