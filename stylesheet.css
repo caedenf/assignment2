@@ -37,6 +37,11 @@ p {
   color: #373737;
 }
 
+ul {
+  font-family: Montserrat, sans-serif;
+  color: #373737;
+}
+
 div.content {
   padding: 50px 50px 50px 50px;
   margin-top: 70px;
