@@ -51,4 +51,5 @@ div.content {
   margin-left: 70px;
   border: 1px solid;
   box-shadow: 5px 10px;
+  line-height: 2;
 }
