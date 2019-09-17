@@ -21,10 +21,18 @@ header {
   font-family: Montserrat, sans-serif;
 }
 
-div.header2 {
+nav {
   padding: 10px 10px 10px 10px;
   background: #DCD0C0;
   font-family: Montserrat, sans-serif;
+}
+
+nav ul {
+  list-stype-type: none;
+}
+
+nav ul li {
+ display: inline-block; 
 }
 
 h2 {
