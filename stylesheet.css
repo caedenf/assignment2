@@ -20,16 +20,17 @@ header {
   background-color: #C0B283;
   font-family: Montserrat, sans-serif;
   text-align: center;
+  margin-bottom: 0px;
 }
 
 nav {
+  margin-top: 0px;
   padding: 10px;
   background-color: #DCD0C0;
   font-family: Montserrat, sans-serif;
 }
 
 nav ul {
-  margin-top: 0px;
   list-stype-type: none;
 }
 
