@@ -15,7 +15,7 @@ a:hover {
   color: #F4F4F4;
 }
 
-div.header {
+header {
   padding: 30px 30px 25px 30px;
   background: #C0B283;
   font-family: Montserrat, sans-serif;
@@ -52,4 +52,8 @@ div.content {
   border: 1px solid;
   box-shadow: 5px 10px;
   line-height: 2;
+}
+
+body,html {
+ margin: 0px; 
 }
